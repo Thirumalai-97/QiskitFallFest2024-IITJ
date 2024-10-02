@@ -17,7 +17,7 @@ Anyone interested in quantum computing can participate in the Qiskit Fall Fest, 
 
    - **Schedule:**
           - Starts from October 2, 2024.
-          - Check Schedule for more details..
+          - Check [Schedule](Images/schedule.jpg) for more details..
           - Venue details will be mailed for registered candidates.
 
 What's Happening ?                                                                
